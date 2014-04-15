@@ -15,21 +15,21 @@
     "deploy": "grunt"
   },
   "dependencies": {
-    "jade": "^1.3.1",
-    "coffee-script": "^1.7.1",
-    "brunch": "^1.7.13",
-    "javascript-brunch": "^1.7.1",
-    "coffee-script-brunch": "^1.8.0",
-    "css-brunch": "^1.7.0",
-    "sass-brunch": "^1.8.1",
-    "auto-reload-brunch": "^1.7.3",
-    "uglify-js-brunch": "^1.7.7",
-    "clean-css-brunch": "^1.7.1",
-    "bower": "^1.3.2",
-    "grunt": "^0.4.4",
-    "grunt-node-webkit-builder": "^0.1.20",
-    "nodewebkit": "^0.8.5-3",
-    "grunt-cli": "^0.1.13",
-    "jaded-brunch": "^1.7.11"
+    "jade": "~1.3.1",
+    "coffee-script": "~1.7.1",
+    "brunch": "~1.7.13",
+    "javascript-brunch": ">= 1.7.1 < 1.8",
+    "coffee-script-brunch": ">= 1.7 < 1.8",
+    "css-brunch": ">= 1.7 < 1.8",
+    "sass-brunch": ">= 1.7 < 1.8",
+    "auto-reload-brunch": ">= 1.7.3 < 1.8",
+    "uglify-js-brunch": ">= 1.7.7 < 1.8",
+    "clean-css-brunch": ">= 1.7.1 < 1.8",
+    "bower": "~1.3.2",
+    "grunt": "~0.4.4",
+    "grunt-node-webkit-builder": "~0.1.20",
+    "nodewebkit": "~0.8.5-3",
+    "grunt-cli": "~0.1.13",
+    "jaded-brunch": ">= 1.7.11 < 1.8"
   }
 }
