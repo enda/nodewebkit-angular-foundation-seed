@@ -24,12 +24,9 @@ exports.config =
         ]
   plugins:
     jaded:
-      jaded:
+      staticPatterns: /^app[\/|\\](.+)\.jade$/
+      jade:
         pretty: yes # Adds pretty-indentation whitespaces to output (false by default)
-        staticPatterns: /^app(\/|\\)(.+)\.jade$/
-    jade_angular:
-      modules_folder: 'partials'
-      locals: {}
 
   # Enable or disable minifying of result js / css files.
   minify: true
