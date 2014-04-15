@@ -1,6 +1,6 @@
 nodewebkit-seed
 ========================
-[![Dependency Status](https://gemnasium.com/enda/nodewebkit-seed.png)](https://gemnasium.com/enda/nodewebkit-seed)
+[![Dependency Status](https://gemnasium.com/enda/nodewebkit-angular-foundation-seed.png)](https://gemnasium.com/enda/nodewebkit-angular-foundation-seed)
 
 Inspired from ![node-webkit-hipster-seed](https://github.com/Anonyfox/node-webkit-hipster-seed),
 bootstrap a crossplatform Desktop Application using nodewebkit, angular and foundation.
