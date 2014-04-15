@@ -10,7 +10,7 @@
   },
   "scripts": {
     "compiler": "brunch build -P",
-    "watcher": "brunch watch -P",
+    "watcher": "brunch watch",
     "app": "nodewebkit _public",
     "deploy": "grunt"
   },
