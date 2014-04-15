@@ -3,10 +3,10 @@
   "name": "nodewebkit-seed",
   "description": "Bootstrap a crossplatform Desktop Application using nodewebkit, angularjs and foundation",
   "version": "0.0.1",
-  "homepage": "https://github.com/enda/nodewebkit-seed",
+  "homepage": "https://github.com/enda/nodewebkit-angular-foundation-seed",
   "repository": {
     "type": "git",
-    "url": "https://github.com/enda/nodewebkit-seed"
+    "url": "https://github.com/enda/nodewebkit-angular-foundation-seed"
   },
   "scripts": {
     "compiler": "brunch build -P",
