@@ -1,0 +1,35 @@
+{
+  "author": "Jerome Musialak",
+  "name": "nodewebkit-seed",
+  "description": "Bootstrap a crossplatform Desktop Application using nodewebkit, angularjs and foundation",
+  "version": "0.0.1",
+  "homepage": "https://github.com/enda/nodewebkit-seed",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enda/nodewebkit-seed"
+  },
+  "scripts": {
+    "compiler": "brunch build -P",
+    "watcher": "brunch watch -P",
+    "app": "nodewebkit _public",
+    "deploy": "grunt"
+  },
+  "dependencies": {
+    "jade": "^1.3.1",
+    "coffee-script": "^1.7.1",
+    "brunch": "^1.7.13",
+    "javascript-brunch": "^1.7.1",
+    "coffee-script-brunch": "^1.8.0",
+    "css-brunch": "^1.7.0",
+    "sass-brunch": "^1.8.1",
+    "auto-reload-brunch": "^1.7.3",
+    "uglify-js-brunch": "^1.7.7",
+    "clean-css-brunch": "^1.7.1",
+    "bower": "^1.3.2",
+    "grunt": "^0.4.4",
+    "grunt-node-webkit-builder": "^0.1.20",
+    "nodewebkit": "^0.8.5-3",
+    "grunt-cli": "^0.1.13",
+    "jaded-brunch": "^1.7.11"
+  }
+}
