@@ -1,6 +1,6 @@
 {
   "author": "Jerome Musialak",
-  "name": "nodewebkit-seed",
+  "name": "nodewebkit-angular-foundation-seed",
   "description": "Bootstrap a crossplatform Desktop Application using nodewebkit, angularjs and foundation",
   "version": "0.0.1",
   "homepage": "https://github.com/enda/nodewebkit-angular-foundation-seed",
